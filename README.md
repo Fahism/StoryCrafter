@@ -4,6 +4,8 @@ This is a Next.js application that allows users to co-create magical stories wit
 
 ![image alt](https://github.com/Fahism/StoryCrafter/blob/main/Screenshot%20(368).png?raw=true)
 
+link:
+https://9000-firebase-studio-1757049921774.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev
 ## Features
 
 - **Collaborative Storytelling:** Users and the AI take turns writing a story.
