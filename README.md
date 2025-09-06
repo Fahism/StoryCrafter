@@ -2,6 +2,8 @@
 
 This is a Next.js application that allows users to co-create magical stories with the help of AI. The app provides a starting point for a story and then lets the user add their own sentences. The AI, with the personality of John Cena, then continues the story, generating unique visuals and audio for each new part.
 
+![image alt](https://github.com/Fahism/StoryCrafter/blob/main/Screenshot%20(368).png?raw=true)
+
 ## Features
 
 - **Collaborative Storytelling:** Users and the AI take turns writing a story.
